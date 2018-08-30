@@ -10,4 +10,8 @@ Install Docker(https://docs.docker.com/install/#supported-platforms)
 
 `docker ps`
 
-Click this link: http://localhost:18220
+Click these links: 
+
+http://localhost:18223
+http://localhost:18224
+http://localhost:18225
